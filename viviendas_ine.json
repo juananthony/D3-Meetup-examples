@@ -1,0 +1,562 @@
+[
+ {
+   "PERIODO": "2018M08",
+   "VALOR": 44.637
+ },
+ {
+   "PERIODO": "2018M07",
+   "VALOR": 45.9
+ },
+ {
+   "PERIODO": "2018M06",
+   "VALOR": 44.692
+ },
+ {
+   "PERIODO": "2018M05",
+   "VALOR": 47.177
+ },
+ {
+   "PERIODO": "2018M04",
+   "VALOR": 42.014
+ },
+ {
+   "PERIODO": "2018M03",
+   "VALOR": 39.579
+ },
+ {
+   "PERIODO": "2018M02",
+   "VALOR": 41.48
+ },
+ {
+   "PERIODO": "2018M01",
+   "VALOR": 47.289
+ },
+ {
+   "PERIODO": "2017M12",
+   "VALOR": 32.605
+ },
+ {
+   "PERIODO": "2017M11",
+   "VALOR": 41.016
+ },
+ {
+   "PERIODO": "2017M10",
+   "VALOR": 37.594
+ },
+ {
+   "PERIODO": "2017M09",
+   "VALOR": 38.992
+ },
+ {
+   "PERIODO": "2017M08",
+   "VALOR": 41.577
+ },
+ {
+   "PERIODO": "2017M07",
+   "VALOR": 39.5
+ },
+ {
+   "PERIODO": "2017M06",
+   "VALOR": 43.922
+ },
+ {
+   "PERIODO": "2017M05",
+   "VALOR": 45.08
+ },
+ {
+   "PERIODO": "2017M04",
+   "VALOR": 32.393
+ },
+ {
+   "PERIODO": "2017M03",
+   "VALOR": 40.856
+ },
+ {
+   "PERIODO": "2017M02",
+   "VALOR": 35.699
+ },
+ {
+   "PERIODO": "2017M01",
+   "VALOR": 38.41
+ },
+ {
+   "PERIODO": "2016M12",
+   "VALOR": 29.508
+ },
+ {
+   "PERIODO": "2016M11",
+   "VALOR": 34.347
+ },
+ {
+   "PERIODO": "2016M10",
+   "VALOR": 29.608
+ },
+ {
+   "PERIODO": "2016M09",
+   "VALOR": 34.797
+ },
+ {
+   "PERIODO": "2016M08",
+   "VALOR": 35.586
+ },
+ {
+   "PERIODO": "2016M07",
+   "VALOR": 33.257
+ },
+ {
+   "PERIODO": "2016M06",
+   "VALOR": 37
+ },
+ {
+   "PERIODO": "2016M05",
+   "VALOR": 36.406
+ },
+ {
+   "PERIODO": "2016M04",
+   "VALOR": 35.256
+ },
+ {
+   "PERIODO": "2016M03",
+   "VALOR": 31.877
+ },
+ {
+   "PERIODO": "2016M02",
+   "VALOR": 35.174
+ },
+ {
+   "PERIODO": "2016M01",
+   "VALOR": 32.569
+ },
+ {
+   "PERIODO": "2015M12",
+   "VALOR": 27.709
+ },
+ {
+   "PERIODO": "2015M11",
+   "VALOR": 28.808
+ },
+ {
+   "PERIODO": "2015M10",
+   "VALOR": 27.564
+ },
+ {
+   "PERIODO": "2015M09",
+   "VALOR": 30.867
+ },
+ {
+   "PERIODO": "2015M08",
+   "VALOR": 29.512
+ },
+ {
+   "PERIODO": "2015M07",
+   "VALOR": 32.736
+ },
+ {
+   "PERIODO": "2015M06",
+   "VALOR": 30.861
+ },
+ {
+   "PERIODO": "2015M05",
+   "VALOR": 29.467
+ },
+ {
+   "PERIODO": "2015M04",
+   "VALOR": 27.284
+ },
+ {
+   "PERIODO": "2015M03",
+   "VALOR": 27.337
+ },
+ {
+   "PERIODO": "2015M02",
+   "VALOR": 30.032
+ },
+ {
+   "PERIODO": "2015M01",
+   "VALOR": 33.379
+ },
+ {
+   "PERIODO": "2014M12",
+   "VALOR": 25.869
+ },
+ {
+   "PERIODO": "2014M11",
+   "VALOR": 25.268
+ },
+ {
+   "PERIODO": "2014M10",
+   "VALOR": 26.583
+ },
+ {
+   "PERIODO": "2014M09",
+   "VALOR": 26.98
+ },
+ {
+   "PERIODO": "2014M08",
+   "VALOR": 23.645
+ },
+ {
+   "PERIODO": "2014M07",
+   "VALOR": 28.731
+ },
+ {
+   "PERIODO": "2014M06",
+   "VALOR": 26.132
+ },
+ {
+   "PERIODO": "2014M05",
+   "VALOR": 27.791
+ },
+ {
+   "PERIODO": "2014M04",
+   "VALOR": 24.891
+ },
+ {
+   "PERIODO": "2014M03",
+   "VALOR": 26.727
+ },
+ {
+   "PERIODO": "2014M02",
+   "VALOR": 25.72
+ },
+ {
+   "PERIODO": "2014M01",
+   "VALOR": 30.493
+ },
+ {
+   "PERIODO": "2013M12",
+   "VALOR": 22.463
+ },
+ {
+   "PERIODO": "2013M11",
+   "VALOR": 22.099
+ },
+ {
+   "PERIODO": "2013M10",
+   "VALOR": 22.812
+ },
+ {
+   "PERIODO": "2013M09",
+   "VALOR": 23.767
+ },
+ {
+   "PERIODO": "2013M08",
+   "VALOR": 23.787
+ },
+ {
+   "PERIODO": "2013M07",
+   "VALOR": 25.819
+ },
+ {
+   "PERIODO": "2013M06",
+   "VALOR": 23.977
+ },
+ {
+   "PERIODO": "2013M05",
+   "VALOR": 26.692
+ },
+ {
+   "PERIODO": "2013M04",
+   "VALOR": 23.704
+ },
+ {
+   "PERIODO": "2013M03",
+   "VALOR": 22.018
+ },
+ {
+   "PERIODO": "2013M02",
+   "VALOR": 35.535
+ },
+ {
+   "PERIODO": "2013M01",
+   "VALOR": 39.92
+ },
+ {
+   "PERIODO": "2012M12",
+   "VALOR": 23.561
+ },
+ {
+   "PERIODO": "2012M11",
+   "VALOR": 25.968
+ },
+ {
+   "PERIODO": "2012M10",
+   "VALOR": 25.3
+ },
+ {
+   "PERIODO": "2012M09",
+   "VALOR": 26.054
+ },
+ {
+   "PERIODO": "2012M08",
+   "VALOR": 27.838
+ },
+ {
+   "PERIODO": "2012M07",
+   "VALOR": 27.072
+ },
+ {
+   "PERIODO": "2012M06",
+   "VALOR": 25.362
+ },
+ {
+   "PERIODO": "2012M05",
+   "VALOR": 27.219
+ },
+ {
+   "PERIODO": "2012M04",
+   "VALOR": 21.276
+ },
+ {
+   "PERIODO": "2012M03",
+   "VALOR": 25.267
+ },
+ {
+   "PERIODO": "2012M02",
+   "VALOR": 30.253
+ },
+ {
+   "PERIODO": "2012M01",
+   "VALOR": 33.364
+ },
+ {
+   "PERIODO": "2011M12",
+   "VALOR": 23
+ },
+ {
+   "PERIODO": "2011M11",
+   "VALOR": 27.323
+ },
+ {
+   "PERIODO": "2011M10",
+   "VALOR": 22.392
+ },
+ {
+   "PERIODO": "2011M09",
+   "VALOR": 25.751
+ },
+ {
+   "PERIODO": "2011M08",
+   "VALOR": 26.888
+ },
+ {
+   "PERIODO": "2011M07",
+   "VALOR": 28.097
+ },
+ {
+   "PERIODO": "2011M06",
+   "VALOR": 28.679
+ },
+ {
+   "PERIODO": "2011M05",
+   "VALOR": 30.855
+ },
+ {
+   "PERIODO": "2011M04",
+   "VALOR": 23.906
+ },
+ {
+   "PERIODO": "2011M03",
+   "VALOR": 32.952
+ },
+ {
+   "PERIODO": "2011M02",
+   "VALOR": 45.107
+ },
+ {
+   "PERIODO": "2011M01",
+   "VALOR": 44.874
+ },
+ {
+   "PERIODO": "2010M12",
+   "VALOR": 31.12
+ },
+ {
+   "PERIODO": "2010M11",
+   "VALOR": 32.193
+ },
+ {
+   "PERIODO": "2010M10",
+   "VALOR": 27.415
+ },
+ {
+   "PERIODO": "2010M09",
+   "VALOR": 36.07
+ },
+ {
+   "PERIODO": "2010M08",
+   "VALOR": 43.61
+ },
+ {
+   "PERIODO": "2010M07",
+   "VALOR": 43.561
+ },
+ {
+   "PERIODO": "2010M06",
+   "VALOR": 37.134
+ },
+ {
+   "PERIODO": "2010M05",
+   "VALOR": 37.711
+ },
+ {
+   "PERIODO": "2010M04",
+   "VALOR": 34.294
+ },
+ {
+   "PERIODO": "2010M03",
+   "VALOR": 37.566
+ },
+ {
+   "PERIODO": "2010M02",
+   "VALOR": 41.267
+ },
+ {
+   "PERIODO": "2010M01",
+   "VALOR": 37.65
+ },
+ {
+   "PERIODO": "2009M12",
+   "VALOR": 32.009
+ },
+ {
+   "PERIODO": "2009M11",
+   "VALOR": 34.927
+ },
+ {
+   "PERIODO": "2009M10",
+   "VALOR": 33.062
+ },
+ {
+   "PERIODO": "2009M09",
+   "VALOR": 37.604
+ },
+ {
+   "PERIODO": "2009M08",
+   "VALOR": 33.811
+ },
+ {
+   "PERIODO": "2009M07",
+   "VALOR": 37.669
+ },
+ {
+   "PERIODO": "2009M06",
+   "VALOR": 34.854
+ },
+ {
+   "PERIODO": "2009M05",
+   "VALOR": 33.756
+ },
+ {
+   "PERIODO": "2009M04",
+   "VALOR": 29.178
+ },
+ {
+   "PERIODO": "2009M03",
+   "VALOR": 34.47
+ },
+ {
+   "PERIODO": "2009M02",
+   "VALOR": 34.578
+ },
+ {
+   "PERIODO": "2009M01",
+   "VALOR": 37.475
+ },
+ {
+   "PERIODO": "2008M12",
+   "VALOR": 32.256
+ },
+ {
+   "PERIODO": "2008M11",
+   "VALOR": 35.774
+ },
+ {
+   "PERIODO": "2008M10",
+   "VALOR": 42.029
+ },
+ {
+   "PERIODO": "2008M09",
+   "VALOR": 45.453
+ },
+ {
+   "PERIODO": "2008M08",
+   "VALOR": 37.82
+ },
+ {
+   "PERIODO": "2008M07",
+   "VALOR": 45.5
+ },
+ {
+   "PERIODO": "2008M06",
+   "VALOR": 46.533
+ },
+ {
+   "PERIODO": "2008M05",
+   "VALOR": 49.647
+ },
+ {
+   "PERIODO": "2008M04",
+   "VALOR": 54.801
+ },
+ {
+   "PERIODO": "2008M03",
+   "VALOR": 45.659
+ },
+ {
+   "PERIODO": "2008M02",
+   "VALOR": 54.783
+ },
+ {
+   "PERIODO": "2008M01",
+   "VALOR": 61.825
+ },
+ {
+   "PERIODO": "2007M12",
+   "VALOR": 43.66
+ },
+ {
+   "PERIODO": "2007M11",
+   "VALOR": 56.188
+ },
+ {
+   "PERIODO": "2007M10",
+   "VALOR": 58.518
+ },
+ {
+   "PERIODO": "2007M09",
+   "VALOR": 61.723
+ },
+ {
+   "PERIODO": "2007M08",
+   "VALOR": 58.872
+ },
+ {
+   "PERIODO": "2007M07",
+   "VALOR": 63.731
+ },
+ {
+   "PERIODO": "2007M06",
+   "VALOR": 66.67
+ },
+ {
+   "PERIODO": "2007M05",
+   "VALOR": 75.883
+ },
+ {
+   "PERIODO": "2007M04",
+   "VALOR": 60.032
+ },
+ {
+   "PERIODO": "2007M03",
+   "VALOR": 74.023
+ },
+ {
+   "PERIODO": "2007M02",
+   "VALOR": 72.287
+ },
+ {
+   "PERIODO": "2007M01",
+   "VALOR": 83.713
+ }
+]
