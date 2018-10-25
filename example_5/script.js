@@ -38,6 +38,8 @@ d3.json("../data/auto.json").then( data => {
         .append("circle")
         .attr("cx", d => scaleX(d.horsepower))
         .attr("cy", d => scaleY(d.acceleration))
+        //.attr("cx", d => d.horsepower)
+        //.attr("cy", d => d.acceleration)
         .attr("r", "4");
         
     // creamos los ejes
@@ -53,10 +55,5 @@ d3.json("../data/auto.json").then( data => {
     svg.append("g")
         .attr("transform","translate(" + (margins.left) + "," + (- margins.top) + ")")
         .call(yAxis);
-    svg.append("text")
-        .attr("transform", "rotate(90 0,0) traslate(10, " + (config.height / 2) + ")")
-        .attr("y", config.height/2)
-        .attr("x", 10)
-        .text("Acceleration")
     
 });
