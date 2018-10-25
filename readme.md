@@ -1,7 +1,7 @@
 # D3 Meetup examples
 
 ## Do you want the slides?
-You can get those as PDF file (presentation.pdf) and at `keynote`folder.
+You can get those as PDF file (presentation.pdf) and at `keynote` folder as HTML page.
 
 ## Datasets
 Where did I get all datasets?
