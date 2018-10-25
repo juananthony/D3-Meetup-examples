@@ -10,7 +10,7 @@ d3.json("../data/auto.json").then( data => {
     var margins = {
         top: 10,
         right: 10,
-        bottom: 20,
+        bottom: 50,
         left: 30
     };
     
@@ -45,10 +45,18 @@ d3.json("../data/auto.json").then( data => {
     svg.append("g")
         .attr("transform","translate(0," + (config.height - margins.bottom) + ")")
         .call(xAxis);
+    svg.append("text")
+        .attr("transform", "translate(" + (config.width / 2) + ", " +  (config.height - 10) + ")")
+        .text("Horsepower")
     
     var yAxis = d3.axisLeft(scaleY);
     svg.append("g")
         .attr("transform","translate(" + (margins.left) + "," + (- margins.top) + ")")
         .call(yAxis);
+    svg.append("text")
+        .attr("transform", "rotate(90 0,0) traslate(10, " + (config.height / 2) + ")")
+        .attr("y", config.height/2)
+        .attr("x", 10)
+        .text("Acceleration")
     
 });
