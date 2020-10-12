@@ -4,7 +4,7 @@ This repository is related to a [Meetup event called "Making a great data visual
 [![Video completo](https://img.youtube.com/vi/GBelY79ll8c/0.jpg)](https://www.youtube.com/watch?v=GBelY79ll8c)
 
 ## Do you want the slides?
-You can get those as PDF file (presentation.pdf) and as HTML page (`keynote` folder).
+You can get those as [PDF file](./presentacion.pdf) and as HTML page (`keynote` folder).
 
 ## Datasets
 Where did I get all datasets?
